@@ -28,7 +28,7 @@ public class Main {
             return;
         }
         if(col==maze[0].length-1 && row==maze.length-1)
-        {
+        { 
             System.out.println(psf);
             return;
         }
