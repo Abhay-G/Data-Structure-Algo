@@ -24,7 +24,7 @@ class Main {
                     t[i][j] = 0; 
             }
         }
-		    int ans = lcss(x,y,m,n,t);
+		    int ans = lcs(x,y,m,n,t);
 		    System.out.println(ans);
 		    
 		}
