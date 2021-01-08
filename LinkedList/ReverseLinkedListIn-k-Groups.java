@@ -8,6 +8,9 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+
+
+//In this the last group which is if less than k remains same, that is it does not change.
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
         
