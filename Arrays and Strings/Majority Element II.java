@@ -36,9 +36,5 @@ class Solution {
             list.add(v2);
         }
         return list;
-        
-        
-        
-        
     }
 }
